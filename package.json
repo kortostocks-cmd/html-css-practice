@@ -4,7 +4,11 @@
   "description": "-Repositorio de práctica de HTML y CSS.",
   "main": "tailwind.config.js",
   "scripts": {
+<<<<<<< HEAD
     "build:styles": "tailwindcss -i /input.css -o ./dist/output.css --watch"
+=======
+    "build:styles": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+>>>>>>> 69eb711 (package jason poniendo tailwind oficial para el problema cli se usa input -i y output)
   },
   "repository": {
     "type": "git",
