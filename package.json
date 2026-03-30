@@ -1,0 +1,21 @@
+{
+  "name": "html-css-practice",
+  "version": "1.0.0",
+  "description": "-Repositorio de práctica de HTML y CSS.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build:styles": "tailwindcss -i /input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kortostocks-cmd/html-css-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kortostocks-cmd/html-css-practice/issues"
+  },
+  "homepage": "https://github.com/kortostocks-cmd/html-css-practice#readme"
+}
